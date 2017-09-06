@@ -11,5 +11,6 @@ int main()
   {
     cout << "Correct";
   }
+  else cout << "Wrong, try again";
   return 0;
 }
