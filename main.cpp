@@ -8,7 +8,8 @@ int main()
   secretnum = 7;
    cout << "Guess a number";
   cin >> guess;
-  if(secretnum == guess) {
+  if(secretnum == guess) 
+  {
     cout << "Correct";
   }
   return 0;
