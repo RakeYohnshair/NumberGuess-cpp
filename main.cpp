@@ -3,11 +3,12 @@ using namespace std;
 
 int main()
 {
-  int SecretNum, Guess;
+  int secretnum,
+  int guess;
   SecretNum = 7;
   cout << "Guess a number";
   cin >> Geuss;
-  if (SecretNum = Guess)
+  if (secretnum = guess)
   then cout << "Correct";
   return 0;
 }
