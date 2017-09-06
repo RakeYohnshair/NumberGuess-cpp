@@ -3,9 +3,8 @@ using namespace std;
 
 int main()
 {
-  int secretnum;
+  int secretnum = 7;
   int guess;
-  secretnum = 7;
   cout << "Guess a number";
   cin >> guess;
   if(secretnum == guess) 
