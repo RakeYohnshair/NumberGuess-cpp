@@ -5,9 +5,9 @@ int main()
 {
   int secretnum,
   int guess;
-  SecretNum = 7;
+  secretnum = 7;
   cout << "Guess a number";
-  cin >> Geuss;
+  cin >> geuss;
   if (secretnum = guess)
   then cout << "Correct";
   return 0;
