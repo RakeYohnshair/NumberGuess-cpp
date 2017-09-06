@@ -7,10 +7,10 @@ int main()
   int guess;
   cout << "Guess a number";
   cin >> guess;
-  if(secretnum == guess) 
+  if (secretnum == guess) 
   {
     cout << "Correct";
-  {
+  }
   else
   {
     cout << "Wrong, try again";
