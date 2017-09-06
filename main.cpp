@@ -10,7 +10,10 @@ int main()
   if(secretnum == guess) 
   {
     cout << "Correct";
+  {
+  else
+  {
+    cout << "Wrong, try again";
   }
-  else cout << "Wrong, try again";
   return 0;
 }
