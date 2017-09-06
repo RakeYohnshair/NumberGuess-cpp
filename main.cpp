@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-  int secretnum,
+  int secretnum;
   int guess;
   secretnum = 7;
   cout << "Guess a number";
