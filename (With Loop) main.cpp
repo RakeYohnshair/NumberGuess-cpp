@@ -12,7 +12,7 @@ int main()
     if (secretnum != guess)
     {
       cout << "Wrong, try again" ;
-      }
-      }
+    }
+  }
   return 0;
 }
