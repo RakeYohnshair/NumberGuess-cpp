@@ -11,8 +11,8 @@ int main()
     cin >> guess;
     if (secretnum != guess)
     {
-    cout << "Wrong, try again" ;
-    }
-    }
+      cout << "Wrong, try again" ;
+      }
+      }
   return 0;
 }
