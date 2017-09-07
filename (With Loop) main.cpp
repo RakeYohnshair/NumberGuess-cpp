@@ -7,11 +7,15 @@ int main()
   int guess;
   while (secretnum != guess) 
   {
-    cout << "Guess a number (1-10)";
+    cout << "Guess a number (1-10)" << ;
     cin >> guess;
     if (secretnum != guess)
     {
-      cout << "Wrong, try again" ;
+      cout << "Wrong, try again" << endl ;
+    }
+    else
+    {
+      cout << "Correct!" <<
     }
   }
   return 0;
