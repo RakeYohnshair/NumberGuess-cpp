@@ -10,9 +10,9 @@ int main()
     cout << "Guess a number (1-10)";
     cin >> guess;
     if (secretnum != guess)
-  {
+    {
     cout << "Wrong, try again" ;
-  }
-  }
+    }
+    }
   return 0;
 }
